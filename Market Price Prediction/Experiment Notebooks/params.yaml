@@ -1,0 +1,6 @@
+bootstrap: False,
+max_depth: 90,
+max_features: 'log2',
+min_samples_leaf: 1,
+min_samples_split: 7,
+n_estimators: 846
